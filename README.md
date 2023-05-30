@@ -1,6 +1,8 @@
 # Wav2vec2Interpretation
 Scripts and additional images for article "Investigating wav2vec2 context representations and the effects of fine-tuning, a case-study of a Finnish model"
 
+![Animated picture of the visual interpretation](pics/umap_3_per_char.gif)
+
 ## Visualization of the CNN outputs
 
 You can find the visualizations of the embeddings produced by the CNN component in `pics/cnn_*.svg`
